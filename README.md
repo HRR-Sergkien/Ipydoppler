@@ -1,4 +1,4 @@
-# IPyDoppler
+# Ipydoppler
 This is a pydoppler GUI. Pydoppler is a python wrapper, developed by J.V. Hernandez-Santisteban, for Henk Spruit's doppler tomography software.
 It uses a modified version of the wrapper called pydoppler2.
 
